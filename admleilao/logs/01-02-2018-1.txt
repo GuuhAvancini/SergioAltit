@@ -1,0 +1,34 @@
+- 01/02/2018 - 15:02:51 - Usuário: Rafael Vicentine - Se logou no sistema.
+- 01/02/2018 - 15:02:53 - Usuário: Rafael Vicentine - Se logou no sistema.
+- 01/02/2018 - 16:02:32 - Usuário: Rafael Vicentine - Se logou no sistema.
+- 01/02/2018 - 16:02:49 - Usuário: Vinicius - Se logou no sistema.
+- 01/02/2018 - 16:02:20 - Usu�rio: Vinicius - Alterou os dados do leil�o: Leilão TESTE.
+- 01/02/2018 - 16:02:36 - Usuário: Vinicius - Imprimiu relatório da JUCESP do leilão: Leilão TESTE.
+- 01/02/2018 - 16:02:15 - Usuário: Vinicius - Imprimiu relatório IPHAN do leilão: Leilão TESTE.
+- 01/02/2018 - 16:02:32 - Usu�rio: Vinicius - Alterou os dados da pe�a: AST 90 x 220 cm "Alegria" ass. Claudio Tozzi.
+- 01/02/2018 - 16:02:47 - Usuário: Vinicius - Imprimiu relatório IPHAN do leilão: Leilão TESTE.
+- 01/02/2018 - 16:02:55 - Usuário: Vinicius - Visualizou o relatório de venda.
+- 01/02/2018 - 16:02:16 - Usuário: Vinicius - Visualizou o relatório de venda.
+- 01/02/2018 - 16:02:54 - Usuário: Vinicius - Visualizou o relatório de venda completo.
+- 01/02/2018 - 16:02:08 - Usuário: Vinicius - Visualizou o relatório de venda.
+- 01/02/2018 - 16:02:04 - Usuário: Vinicius - Visualizou o relatório de venda por comitentes.
+- 01/02/2018 - 16:02:49 - Usuário: Vinicius - Visualizou o relatório de venda por comitentes.
+- 01/02/2018 - 16:02:07 - Usuário: Vinicius - Visualizou o relatório de venda.
+- 01/02/2018 - 16:02:58 - Usuário: Vinicius - Visualizou o relatório de venda por compradores.
+- 01/02/2018 - 17:02:33 - Usuário: Vinicius - Visualizou o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:47 - Usuário: Vinicius - Imprimiu o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:52 - Usuário: Vinicius - Imprimiu o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:59 - Usuário: Vinicius - Visualizou o relatório de venda por compradores.
+- 01/02/2018 - 17:02:33 - Usuário: Vinicius - Visualizou o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:35 - Usuário: Vinicius - Imprimiu o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:51 - Usuário: Vinicius - Visualizou o relatório de venda por comitentes.
+- 01/02/2018 - 17:02:01 - Usuário: Vinicius - Visualizou o relatório de venda por comitentes.
+- 01/02/2018 - 17:02:25 - Usuário: Vinicius - Visualizou o relatório financeiro.
+- 01/02/2018 - 17:02:51 - Usuário: Vinicius - Visualizou o balancete do leilão: Leilão TESTE.
+- 01/02/2018 - 17:02:04 - Usuário: Vinicius - Visualizou o relatório financeiro.
+- 01/02/2018 - 17:02:40 - Usuário: Vinicius - Visualizou o relatório financeiro.
+- 01/02/2018 - 17:02:57 - Usuário: Vinicius - Visualizou o relatório de venda por comitentes.
+- 01/02/2018 - 17:02:01 - Usuário: Vinicius - Visualizou o relatório de venda.
+- 01/02/2018 - 18:02:22 - Usuário: Vinicius - Se logou no sistema.
+- 01/02/2018 - 18:02:47 - Usu�rio: Vinicius - Alterou o usu�rio: Vinicius.
+- 01/02/2018 - 18:02:02 - Usu�rio: Vinicius - Alterou o usu�rio: Vinicius.
