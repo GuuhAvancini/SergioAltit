@@ -1,0 +1,536 @@
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#bglogin{
+	margin-top:140px;
+	background-color: #FFF;
+	height:300px;
+	border-bottom:#04572d solid 3px;
+	opacity:0.4;
+}
+#conteudoCentro{
+  width: 880px;
+  margin: 0 auto;
+
+  
+}
+#login{
+	margin-top:-210px;
+	position:relative;
+	z-index:100;
+}
+#formlogin{
+	float:right;
+	margin-right:140px;
+	margin-top:60px;
+	
+}
+input{
+	padding:10px;
+	width:200px;
+	border-radius:5px;
+	border:none;
+	margin-top:10px;
+	color:#999;
+}
+#bot{
+	border:none;
+	padding:10px;
+	color:#FFF;
+	background-color:#666;	
+	margin-top:10px;
+	width:100px;
+	float:right;
+	cursor:pointer;
+}
+#menu-princ{
+	width:55px;
+	background-color:#5d3105;
+	position:fixed;
+	height:100%;
+	padding-left:10px;
+	padding-top:20px;
+	z-index:1000;
+}
+#marca-logo{
+	margin-bottom:30px;
+	
+		
+}
+.menu-sub{
+	width:170px;
+	background-color:#5d3105;
+	position:absolute;
+	margin-left:50px;
+	padding:10px;
+	color:#FFF;
+	font-size:18px;
+	margin-top:-50px;
+	border-radius:5px;
+	padding-left:10px;
+}
+body,td,th {
+	font-family: 'Titillium Web', sans-serif;
+  	line-height: 1.5;
+}
+.icones{
+	margin-bottom:15px;	
+}
+#barra-fixa{
+	height:30px;
+	background-color:#ebebeb;
+	position:relative;
+	top:10px;
+	padding-left:80px;
+	padding-top:15px;
+	color:#999;
+	font-size:12px;
+}
+#titulo-sys{
+	
+}
+#titulo-user{
+	float:right;
+	margin-right:30px;
+}
+.bola {
+    border-radius: 50%;
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    background-color: #c23031;
+	font-size:11px;
+	color:#FFF;
+	font-weight:bold;
+	padding:3px;
+	position:absolute;
+	margin-left:-15px;
+	margin-top:-1px;
+}
+#conteudo{
+	margin-left:95px;
+	margin-top:50px;
+		
+}
+#quadro-mensagens{
+	width:235px;
+	height:140px;
+	border: 1px #fbf0d6 solid;
+	border-radius:5px;
+	float:left;
+	margin:5px;
+}
+#titulo-quadro-msg{
+	background-color:#fcf8e3;
+	padding:5px;
+	color:#666;
+	font-size:12px;
+	margin-bottom:15px;
+	
+}
+#quadro-invoces{
+	width:265px;
+	height:140px;
+	border: 1px #c2e7f0 solid;
+	border-radius:5px;
+	float:left;
+	margin:5px;
+}
+#titulo-quadro-invoces{
+	background-color:#d9edf7;
+	padding:5px;
+	color:#666;
+	font-size:12px;
+	margin-bottom:15px;
+}
+#quadro-comissao{
+	width:315px;
+	height:140px;
+	border: 1px #ddeccf solid;
+	border-radius:5px;
+	float:left;
+	margin:5px;
+}
+#titulo-quadro-comissao{
+	background-color:#ddeccf;
+	padding:5px;
+	color:#666;
+	font-size:12px;
+	margin-bottom:15px;
+}
+.linha-quadros{
+	margin:10px;
+	background-color:#ededed;
+	font-size:11px;
+	padding:5px;
+	color: #999;
+	margin-top:-5px;
+}
+.numeros-quadro{
+	border-radius: 8px;
+    height: 15px;
+	min-width:15px;
+    background-color: #666;
+	font-size:11px;
+	color: #ededed;
+	float:right;
+	padding:3px;
+	margin-top:-2px;
+}
+#conteudo-home-quadros{
+	position: absolute;
+}
+#conteudo-home-menu{
+	position: absolute;
+	margin-top:200px;
+	font-size:14px;
+	border-bottom: #CCC 1px solid;
+	width:90%;
+	
+}
+#conteudo-cadastros-menu{
+	position: absolute;
+	font-size:14px;
+	border-bottom: #CCC 1px solid;
+	width:90%;
+	
+}
+#titles{
+	border: #CCC 1px solid;
+	padding:8px;
+	border-radius:5px 5px 0px 0px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:22px;
+	background-color:#FFF;
+	position:abslute;
+	border-bottom:none;
+}
+#busca-invoices-ativo{
+	border: #CCC 1px solid;
+	padding:8px;
+	border-radius:5px 5px 0px 0px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:22px;
+	background-color:#FFF;
+	position: absolute;
+	border-bottom:none;
+}
+#busca-invoices-ativo-cad{
+	border: #CCC 1px solid;
+	padding:8px;
+	border-radius:5px 5px 0px 0px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:22px;
+	background-color:#FFF;
+	position: absolute;
+	border-bottom:none;
+}
+#conteudo-home-menu a{
+	text-decoration:none;
+	color:#000;
+	
+}
+#busca-invoices{
+	padding:8px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:21px;
+	position: relative;
+}
+#busca-cadastros-ativo{
+	border: #CCC 1px solid;
+	padding:8px;
+	border-radius:5px 5px 0px 0px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:21px;
+	background-color:#FFF;
+	position: absolute;
+	border-bottom:none;
+	margin-left:190px;
+}
+#busca-cadastros{
+	padding:8px;
+	float:left;
+	margin-left:210px;
+	padding-right:20px;
+	height:21px;
+	position: relative;
+}
+#busca-invoices-cad{
+	padding:8px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:21px;
+	position: relative;
+}
+#busca-cadastros-ativo-cad{
+	border: #CCC 1px solid;
+	padding:8px;
+	border-radius:5px 5px 0px 0px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	height:21px;
+	background-color:#FFF;
+	position: absolute;
+	border-bottom:none;
+	margin-left:190px;
+}
+#busca-cadastros-cad{
+	padding:8px;
+	float:left;
+	margin-left:210px;
+	padding-right:20px;
+	height:21px;
+	position: relative;
+}
+#conteudo-home-busca-invoices{
+	position: absolute;
+	margin-top:260px;
+	
+}
+#conteudo-home-busca-cadastros{
+	position: absolute;
+	margin-top:260px;
+	display:none;
+}
+#conteudo-home-busca-invoices-cad{
+	position: absolute;
+	margin-top:260px;
+	
+}
+#conteudo-home-busca-cadastros-cad{
+	position: absolute;
+	margin-top:260px;
+	display:none;
+}
+#search {
+    width: 657px;
+    margin: 4px;
+	
+}
+#searchPaginas {
+    width: 1200px;
+    margin: 4px;
+	
+}
+#cadastro{
+	width: 650px;
+    margin: 4px;
+}
+#search_text{
+    width: 297px;
+    padding: 10px 0 10px 15px;
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+	border-bottom:1px #CCCCCC solid;
+	border-left:1px #CCCCCC solid;
+	border-top:1px #CCCCCC solid;
+	border-right:none;
+    height: 36px;
+    margin-right: 0;
+    color: #999;
+    outline: none;
+    background: #FFF;
+    float: left;
+    box-sizing: border-box;
+    transition: all 0.15s;
+	border-radius:0px;
+}
+#input_text{
+	padding: 10px 0 10px 15px;
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+	border:1px #CCCCCC solid;
+    height: 36px;
+    color: #999;
+    outline: none;
+    background: #FFF;
+    box-sizing: border-box;
+    transition: all 0.15s;
+	border-radius:0px;
+	margin-top:10px;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+    color: #999;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #999;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #999;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #999;
+}
+#search_text:focus {
+    background: #f9f9f9;
+}
+#search_button {
+    border-bottom:1px #CCCCCC solid;
+	border-right:1px #CCCCCC solid;
+	border-top:1px #CCCCCC solid;
+	border-left:none;
+    background: #e8e8e8 url(images/search.png) center no-repeat;
+    width: 40px;
+    float: left;
+    padding: 0;
+    text-align: center;
+    height: 36px;
+    cursor: pointer;
+	border-radius:0px;
+}
+.tabelaBusca{
+	border:#CCCCCC 1px solid;
+	border-radius:5px 5px 0px 0px;
+	margin-top:350px;
+	margin-left:5px;
+	position:absolute;
+	
+}
+.tabelaBusca td{
+	border-right:#CCCCCC 1px solid;
+	border-bottom:#CCCCCC 1px solid;
+	padding:5px;
+	font-size:14px;
+}
+#new_button {
+    border:1px #CCCCCC solid;
+    width: 150px;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    height: 36px;
+    cursor: pointer;
+	border-radius:0px;
+	margin-left:20px;
+	background: #e8e8e8;
+}
+#envia_button{
+	border:1px #CCCCCC solid;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    height: 36px;
+    cursor: pointer;
+	border-radius:0px;
+	background: #e8e8e8;
+	float:left;
+	margin-left:147px;
+}
+#message{
+	width:250px;
+	height:100px;
+	background-color: #F6F6F6;
+	position:fixed;
+	left:50%;
+	top:50%;
+	margin-left:-150px;
+	margin-top:-80px;
+	border:1px #000000 solid;
+	border-radius:5px;
+	padding:30px;
+	box-shadow: 2px 2px 2px #CCC;
+   -webkit-box-shadow: 2px 2px 2px #CCC;
+   -moz-box-shadow: 2px 2px 2px #CCC;
+	
+}
+#close_button {
+    border:1px #CCCCCC solid;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    height: 36px;
+    cursor: pointer;
+	border-radius:0px;
+	background: #096;
+	color:#FFF;
+}
+#etapas-invoice{
+	position:relative;
+	
+}
+.quadro-invoice{
+	width:260px;
+	height:130px;
+	border:1px #999999 solid;
+	border-radius:5px;
+	padding:5px;
+	font-size:14px;
+	margin-top:30px;
+	float:left;
+	margin-right:20px;
+}
+.quadro-produtos{
+	width:850px;
+	min-height:180px;
+	border:1px #999999 solid;
+	border-radius:5px;
+	padding:5px;
+	font-size:14px;
+	margin-top:30px;
+	float:left;
+	
+}
+#busca-invoice{
+	margin-top:200px;
+	position:relative;
+	
+}
+.tituloDados{
+	font-size:11px;	
+}
+#linhaDados{
+	margin-top:15px;	
+}
+#botoes-consignee{
+	position:relative;
+	margin-top:130px;
+	margin-left:-550px;
+}
+.menuPaginas{
+	padding:5px;
+	background-color: #F9F9F9;
+	color:#333;
+	text-decoration:none;
+	border-radius: 5px 5px 0px 0px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:15px;
+}
+.menuPaginasActive{
+	padding:5px;
+	background-color: #E4E4E4;
+	color:#333;
+	text-decoration:none;
+	border-radius: 5px 5px 0px 0px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-right:15px;
+}
+#simple_button{
+	border:1px #CCCCCC solid;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    height: 32px;
+    cursor: pointer;
+	border-radius:0px;
+	background: #e8e8e8;
+}

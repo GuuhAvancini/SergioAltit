@@ -1,0 +1,818 @@
+[07-Aug-2017 14:27:08 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/hadnet/public_html/leilao/index.php on line 2
+[07-Aug-2017 14:27:08 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/hadnet/public_html/leilao/index.php on line 2
+[07-Aug-2017 14:27:08 UTC] PHP Warning:  include(): Failed opening 'seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/leilao/index.php on line 2
+[07-Aug-2017 15:31:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/index.php on line 23
+[07-Aug-2017 15:49:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/index.php on line 23
+[07-Aug-2017 15:51:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/index.php on line 23
+[07-Aug-2017 15:51:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/index.php on line 23
+[07-Aug-2017 20:23:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/compradores.php on line 44
+[07-Aug-2017 20:25:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/novo-comprador-ok.php on line 15
+[07-Aug-2017 20:30:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/leilao/compradores.php on line 70
+[22-Aug-2017 11:30:38 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[22-Aug-2017 11:33:07 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[22-Aug-2017 11:54:42 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[22-Aug-2017 12:01:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 122
+[22-Aug-2017 12:36:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/acervo.php on line 43
+[22-Aug-2017 12:37:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/acervo.php on line 68
+[22-Aug-2017 12:40:05 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[22-Aug-2017 12:40:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/acervo.php on line 68
+[22-Aug-2017 12:57:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 12:57:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 12:57:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 12:58:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 12:58:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 12:58:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-acervo.php on line 13
+[22-Aug-2017 14:41:19 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[12-Sep-2017 16:52:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/index-home.php on line 50
+[12-Sep-2017 17:38:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/lotes-leilao.php on line 56
+[12-Sep-2017 17:40:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/lotes-leilao.php on line 56
+[12-Sep-2017 17:40:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/lotes-leilao.php on line 56
+[30-Oct-2017 01:38:56 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:39:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 51 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:51:04 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:51:50 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:54:53 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:56:17 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[30-Oct-2017 01:58:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 123
+[30-Oct-2017 01:58:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 123
+[30-Oct-2017 01:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 123
+[06-Nov-2017 15:06:04 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[27-Nov-2017 13:03:11 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[27-Nov-2017 13:08:11 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[27-Nov-2017 13:08:45 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[27-Nov-2017 13:09:57 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-peca.php on line 60 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:38:37 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:38:45 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:44:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hadnet/public_html/altit/lotes-leilao.php on line 94
+[01-Dec-2017 09:53:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:53:52 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:54:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:54:01 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:54:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:54:08 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:54:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:54:16 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:54:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:54:21 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:55:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:55:57 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:56:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:56:51 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 23 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:56:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:56:54 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 23 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:57:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:57:15 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 23 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:57:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/random.php on line 6
+[01-Dec-2017 09:57:29 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 23 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:58:22 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 09:58:27 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 10:03:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/exclui-lote.php on line 25 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 11:00:08 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-status-leilao-pregao.php on line 11 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 11:01:29 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-status-leilao-pregao.php on line 11 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 11:12:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 61
+[01-Dec-2017 11:12:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/pregao-leilao.php on line 99
+[01-Dec-2017 11:12:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/pregao-leilao.php on line 99
+[01-Dec-2017 11:12:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/pregao-leilao.php on line 99
+[01-Dec-2017 11:12:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/pregao-leilao.php on line 99
+[01-Dec-2017 11:12:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/pregao-leilao.php on line 99
+[01-Dec-2017 12:16:53 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 12:17:40 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 12:17:50 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 12:18:44 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-status-leilao-pregao.php on line 11 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[01-Dec-2017 12:18:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:18:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:18:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:18:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:18:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:18:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/cartelas.php on line 61
+[01-Dec-2017 12:19:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:19:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:19:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:19:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:19:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:21:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:21:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:21:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:21:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:21:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:26:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:26:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:26:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:26:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 12:26:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 13:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 13:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 13:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 13:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 13:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:50:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:50:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:50:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:50:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:50:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/pregao-leilao.php on line 99
+[01-Dec-2017 15:52:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/cartelas.php on line 61
+[01-Dec-2017 15:53:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/cartelas.php on line 61
+[01-Dec-2017 15:53:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/cartelas.php on line 61
+[11-Dec-2017 19:09:58 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:09:58 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:09:58 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:10:07 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/pregao-leilao.php on line 38
+[11-Dec-2017 19:10:07 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/pregao-leilao.php on line 38
+[11-Dec-2017 19:10:07 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/altit/pregao-leilao.php on line 38
+[11-Dec-2017 19:54:48 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:54:48 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:54:48 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:54:55 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:54:55 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:54:55 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:55:03 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:55:03 UTC] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/hadnet/public_html/altit/index-home.php on line 21
+[11-Dec-2017 19:55:03 UTC] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hadnet/public_html/altit/index-home.php on line 21
+[12-Dec-2017 09:06:39 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:07:02 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:07:30 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:08:11 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:08:14 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:08:24 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:08:37 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:10:07 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 5
+[12-Dec-2017 09:10:38 UTC] PHP Fatal error:  Function name must be a string in /home/hadnet/public_html/altit--/edita-comitente-ok.php on line 4
+[12-Dec-2017 09:29:01 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/cadastra-nova-peca.php on line 65 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 09:31:41 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/cadastra-nova-peca.php on line 65 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:01:18 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo-foto.php on line 53 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:03:24 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo-foto.php on line 53 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:04:14 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo-foto.php on line 53 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:04:45 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo-foto.php on line 53 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:05:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo-foto.php on line 53 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:08:49 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit--/altera-acervo.php on line 14 and defined in /home/hadnet/public_html/altit--/seguranca.php on line 117
+[12-Dec-2017 10:30:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hadnet/public_html/altit--/cartelas.php on line 170
+[12-Dec-2017 10:31:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:31:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:32:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:33:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:33:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:33:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:34:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:34:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:34:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:34:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/cartelas.php on line 139
+[12-Dec-2017 10:56:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/fechamento.php on line 139
+[12-Dec-2017 10:57:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit--/fechamento.php on line 139
+[12-Dec-2017 15:20:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/web-site.php on line 8
+[12-Dec-2017 15:20:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/web-site.php on line 8
+[12-Dec-2017 15:22:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/web-site.php on line 8
+[12-Dec-2017 15:22:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/web-site.php on line 8
+[12-Dec-2017 15:33:49 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-foto.php on line 48 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[12-Dec-2017 15:35:09 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-foto.php on line 48 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[12-Dec-2017 19:18:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 132
+[12-Dec-2017 19:18:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 132
+[12-Dec-2017 19:18:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 132
+[12-Dec-2017 19:19:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 132
+[13-Dec-2017 21:12:16 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/cadastra-nova-peca.php on line 65 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:14:04 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-acervo.php on line 14 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:15:26 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:15:40 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:15:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:15:55 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:16:01 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:16:06 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/muda-lote-manual.php on line 13 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:16:10 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:16:13 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/random.php on line 20 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:21:26 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-foto.php on line 48 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[13-Dec-2017 21:22:12 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-foto.php on line 48 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[14-Dec-2017 15:16:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/hadnet/public_html/altit/cadastra-emprestimo.php on line 6
+[14-Dec-2017 15:18:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/hadnet/public_html/altit/cadastra-emprestimo.php on line 6
+[14-Dec-2017 15:29:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/hadnet/public_html/altit/cadastra-emprestimo.php on line 6
+[14-Dec-2017 15:29:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/hadnet/public_html/altit/cadastra-emprestimo.php on line 6
+[14-Dec-2017 16:15:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/view-comprador.php on line 124
+[14-Dec-2017 16:51:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-quemsomos.php on line 8 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[14-Dec-2017 16:52:59 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-quemsomos.php on line 8 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[14-Dec-2017 16:53:16 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-quemsomos.php on line 8 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[14-Dec-2017 16:53:26 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/altera-website-quemsomos.php on line 8 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[14-Dec-2017 18:16:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 102
+[14-Dec-2017 18:16:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 102
+[14-Dec-2017 18:16:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 102
+[14-Dec-2017 18:16:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 102
+[14-Dec-2017 18:16:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 102
+[14-Dec-2017 18:17:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 103
+[14-Dec-2017 18:17:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 103
+[14-Dec-2017 18:17:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 103
+[14-Dec-2017 18:17:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 103
+[14-Dec-2017 18:17:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/leilao-relatorios.php on line 103
+[14-Dec-2017 18:46:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/hadnet/public_html/altit/index-home.php on line 81
+[14-Dec-2017 21:11:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:11:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 30
+[14-Dec-2017 21:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 31
+[14-Dec-2017 21:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 31
+[14-Dec-2017 21:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 31
+[14-Dec-2017 21:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 31
+[14-Dec-2017 21:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda.php on line 31
+[16-Dec-2017 16:26:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda-por-comitentes.php on line 25
+[16-Dec-2017 16:27:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/relatorio-de-venda-por-comitentes.php on line 40
+[16-Dec-2017 17:13:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/balancete-leilao.php on line 68
+[16-Dec-2017 17:19:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hadnet/public_html/altit/balancete-leilao.php on line 103
+[16-Dec-2017 17:52:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hadnet/public_html/altit/balancete-leilao.php on line 97
+[19-Dec-2017 12:25:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/configuracoes.php on line 66
+[19-Dec-2017 15:01:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/hadnet/public_html/altit/configuracoes.php on line 12
+[19-Dec-2017 15:01:24 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 15 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:02:01 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 14 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:02:42 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 27 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:03:50 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 14 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:04:48 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 29 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:04:55 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 15 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 15:05:00 UTC] PHP Warning:  Missing argument 2 for escrevelog(), called in /home/hadnet/public_html/altit/configuracoes.php on line 29 and defined in /home/hadnet/public_html/altit/seguranca.php on line 117
+[19-Dec-2017 19:06:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/hadnet/public_html/altit/retirada-peca-comprador.php on line 122
+[22-Mar-2018 12:45:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/index-home.php on line 55
+[22-Mar-2018 12:45:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/index-home.php on line 55
+[22-Mar-2018 12:45:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index-home.php on line 56
+[22-Mar-2018 14:44:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/agescritorio/public_html/admleilao/view-acervo.php on line 105
+[22-Mar-2018 17:51:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-acervo.php on line 97
+[22-Mar-2018 18:22:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/voltar-acervo.php on line 112
+[22-Mar-2018 18:35:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-acervo.php on line 97
+[22-Mar-2018 19:47:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/venda-avulsa.php on line 154
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/view-acervo.php on line 2
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/view-acervo.php on line 2
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  include(): Failed opening 'seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/admleilao/view-acervo.php on line 2
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/view-acervo.php on line 6
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/view-acervo.php on line 6
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/view-acervo.php on line 7
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/view-acervo.php on line 13
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/view-acervo.php on line 13
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/view-acervo.php on line 14
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/view-acervo.php on line 123
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/view-acervo.php on line 123
+[26-Mar-2018 13:10:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/view-acervo.php on line 124
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  include(): Failed opening 'seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/index.php on line 5
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/index.php on line 5
+[26-Mar-2018 13:10:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  include(seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  include(): Failed opening 'seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/admleilao/index.php on line 2
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/index.php on line 5
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/index.php on line 5
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/admleilao/index.php on line 23
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/admleilao/index.php on line 23
+[26-Mar-2018 13:10:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 24
+[26-Mar-2018 14:22:01 UTC] PHP Warning:  Division by zero in /home/agescritorio/public_html/admleilao/leilao-recibo-comprador.php on line 231
+[26-Mar-2018 14:22:01 UTC] PHP Warning:  Division by zero in /home/agescritorio/public_html/admleilao/leilao-recibo-comprador.php on line 231
+[26-Mar-2018 16:28:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/envia-leilao.php on line 107
+[27-Mar-2018 13:09:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/consignacao.php on line 14
+[10-Apr-2018 19:44:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-comprador.php on line 203
+[10-Apr-2018 19:44:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-comprador.php on line 203
+[12-Apr-2018 14:50:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/emprestimo-peca-comprador-devolucao.php on line 119
+[12-Apr-2018 14:50:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/emprestimo-peca-comprador-devolucao.php on line 115
+[16-Apr-2018 20:51:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 173
+[16-Apr-2018 20:51:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 175
+[16-Apr-2018 20:51:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 130
+[16-Apr-2018 20:52:07 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 173
+[16-Apr-2018 20:52:07 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 175
+[16-Apr-2018 20:52:07 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 130
+[26-Apr-2018 17:47:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/agescritorio/public_html/admleilao/artistas.php on line 5
+[26-Apr-2018 17:47:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/agescritorio/public_html/admleilao/artistas.php on line 5
+[26-Apr-2018 17:47:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/agescritorio/public_html/admleilao/artistas.php on line 5
+[16-May-2018 13:29:47 UTC] PHP Warning:  move_uploaded_file(../convites/0K6YhwZ8kIljLYJbAG - Escritório de Arte.pdf): failed to open stream: No such file or directory in /home/agescritorio/public_html/admleilao/edita-leilao-ok.php on line 81
+[16-May-2018 13:29:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmdDTAx' to '../convites/0K6YhwZ8kIljLYJbAG - Escritório de Arte.pdf' in /home/agescritorio/public_html/admleilao/edita-leilao-ok.php on line 81
+[04-Jun-2018 16:03:56 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/agescritorio/public_html/admleilao/editar-leilao.php on line 158
+[04-Jun-2018 16:03:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/agescritorio/public_html/admleilao/editar-leilao.php on line 158
+[25-Jun-2018 19:10:03 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 173
+[25-Jun-2018 19:10:03 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 175
+[25-Jun-2018 19:10:03 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/recibo-venda-avulsa.php on line 130
+[25-Jun-2018 19:52:34 UTC] PHP Fatal error:  Cannot redeclare class clsTexto in /home/agescritorio/public_html/admleilao/leilao-recibo-comprador.php on line 110
+[08-Aug-2018 13:00:15 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/agescritorio/public_html/admleilao/seguranca.php on line 27
+[08-Aug-2018 13:00:19 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/agescritorio/public_html/admleilao/seguranca.php on line 27
+[08-Aug-2018 14:20:28 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/agescritorio/public_html/admleilao/seguranca.php on line 27
+[17-Aug-2018 20:55:09 UTC] PHP Warning:  POST Content-Length of 8616656 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Aug-2018 20:55:33 UTC] PHP Warning:  POST Content-Length of 8616656 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Aug-2018 20:56:11 UTC] PHP Warning:  POST Content-Length of 8616656 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Aug-2018 20:57:45 UTC] PHP Warning:  POST Content-Length of 8616656 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Aug-2018 20:58:01 UTC] PHP Warning:  POST Content-Length of 9203686 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 12:36:34 UTC] PHP Warning:  POST Content-Length of 10066055 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 12:56:59 UTC] PHP Warning:  POST Content-Length of 8633304 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 12:58:48 UTC] PHP Warning:  POST Content-Length of 8633308 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 13:04:44 UTC] PHP Warning:  POST Content-Length of 13237306 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 13:08:56 UTC] PHP Warning:  POST Content-Length of 9365077 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 13:24:46 UTC] PHP Warning:  POST Content-Length of 10071835 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 13:27:20 UTC] PHP Warning:  POST Content-Length of 10071835 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 13:59:18 UTC] PHP Warning:  POST Content-Length of 10057087 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 14:10:29 UTC] PHP Warning:  POST Content-Length of 8784517 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 14:10:33 UTC] PHP Warning:  POST Content-Length of 8784517 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 14:15:21 UTC] PHP Warning:  POST Content-Length of 8784517 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 14:48:52 UTC] PHP Warning:  POST Content-Length of 9265825 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Aug-2018 14:53:53 UTC] PHP Warning:  POST Content-Length of 10342318 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Aug-2018 21:02:09 UTC] PHP Warning:  POST Content-Length of 9147555 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Aug-2018 21:05:56 UTC] PHP Warning:  POST Content-Length of 10555009 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 12:42:27 UTC] PHP Warning:  POST Content-Length of 9813992 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 12:46:40 UTC] PHP Warning:  POST Content-Length of 9148471 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 12:59:32 UTC] PHP Warning:  POST Content-Length of 8967534 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:02:52 UTC] PHP Warning:  POST Content-Length of 10779926 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:05:28 UTC] PHP Warning:  POST Content-Length of 8451991 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:07:17 UTC] PHP Warning:  POST Content-Length of 10081463 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:12:15 UTC] PHP Warning:  POST Content-Length of 10898138 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:23:41 UTC] PHP Warning:  POST Content-Length of 10595644 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 13:26:43 UTC] PHP Warning:  POST Content-Length of 12809708 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:10:43 UTC] PHP Warning:  POST Content-Length of 8933110 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:26:31 UTC] PHP Warning:  POST Content-Length of 10539853 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:28:41 UTC] PHP Warning:  POST Content-Length of 9351853 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:30:51 UTC] PHP Warning:  POST Content-Length of 9306493 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:33:41 UTC] PHP Warning:  POST Content-Length of 10648994 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:37:06 UTC] PHP Warning:  POST Content-Length of 30467881 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 14:46:04 UTC] PHP Warning:  POST Content-Length of 9622025 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 15:03:44 UTC] PHP Warning:  POST Content-Length of 13320901 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 15:11:58 UTC] PHP Warning:  POST Content-Length of 10810870 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 17:44:44 UTC] PHP Warning:  POST Content-Length of 9359028 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2018 19:44:06 UTC] PHP Warning:  POST Content-Length of 9110117 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:33:28 UTC] PHP Warning:  POST Content-Length of 9496618 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:36:49 UTC] PHP Warning:  POST Content-Length of 10233440 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:42:43 UTC] PHP Warning:  POST Content-Length of 9025050 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:49:46 UTC] PHP Warning:  POST Content-Length of 8994736 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:52:05 UTC] PHP Warning:  POST Content-Length of 9807918 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 19:57:04 UTC] PHP Warning:  POST Content-Length of 10218162 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2018 20:01:23 UTC] PHP Warning:  POST Content-Length of 8863049 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Aug-2018 15:29:31 UTC] PHP Warning:  POST Content-Length of 8554548 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Sep-2018 13:28:27 UTC] PHP Warning:  POST Content-Length of 8460865 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 17:07:44 UTC] PHP Warning:  POST Content-Length of 8637567 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 18:03:26 UTC] PHP Warning:  POST Content-Length of 12702848 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 18:14:05 UTC] PHP Warning:  POST Content-Length of 8660172 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 18:21:47 UTC] PHP Warning:  POST Content-Length of 9297236 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 18:27:03 UTC] PHP Warning:  POST Content-Length of 8839903 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Sep-2018 18:27:04 UTC] PHP Warning:  POST Content-Length of 8839903 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Oct-2018 19:23:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/comitentes.php on line 69
+[17-Oct-2018 19:23:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 69
+[17-Oct-2018 19:23:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 69
+[08-Nov-2018 14:20:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 69
+[13-Nov-2018 15:07:24 UTC] PHP Warning:  POST Content-Length of 24860128 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Nov-2018 15:08:40 UTC] PHP Warning:  POST Content-Length of 24860128 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Nov-2018 15:12:14 UTC] PHP Warning:  POST Content-Length of 24860128 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Nov-2018 17:09:00 UTC] PHP Warning:  POST Content-Length of 11353432 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Nov-2018 17:09:48 UTC] PHP Warning:  POST Content-Length of 11353432 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Nov-2018 17:10:50 UTC] PHP Warning:  POST Content-Length of 11346439 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Nov-2018 17:11:52 UTC] PHP Warning:  POST Content-Length of 11346439 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Nov-2018 19:41:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 69
+[18-Dec-2018 11:09:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-acervo.php on line 198
+[18-Dec-2018 11:09:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/view-acervo.php on line 198
+[18-Dec-2018 12:36:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/categorias.php on line 53
+[18-Dec-2018 12:38:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/categorias.php on line 52
+[18-Dec-2018 12:41:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/categorias.php on line 52
+[18-Dec-2018 13:51:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/lotes-leilao.php on line 168
+[26-Apr-2019 19:16:58 UTC] PHP Warning:  POST Content-Length of 12386015 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Apr-2019 19:18:48 UTC] PHP Warning:  POST Content-Length of 12384901 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Apr-2019 19:41:32 UTC] PHP Warning:  POST Content-Length of 11173501 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Apr-2019 19:45:55 UTC] PHP Warning:  POST Content-Length of 11172256 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Apr-2019 19:47:15 UTC] PHP Warning:  POST Content-Length of 11172256 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-May-2019 19:24:07 UTC] PHP Warning:  POST Content-Length of 9736301 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-May-2019 19:52:23 UTC] PHP Warning:  POST Content-Length of 9072588 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-May-2019 18:16:44 UTC] PHP Warning:  POST Content-Length of 34118096 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-May-2019 19:31:19 UTC] PHP Warning:  POST Content-Length of 8778931 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-May-2019 19:31:34 UTC] PHP Warning:  POST Content-Length of 8778931 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-May-2019 19:43:15 UTC] PHP Warning:  POST Content-Length of 8778931 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-May-2019 14:32:14 UTC] PHP Warning:  POST Content-Length of 9777896 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-May-2019 14:38:07 UTC] PHP Warning:  POST Content-Length of 9777896 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-May-2019 15:05:45 UTC] PHP Warning:  POST Content-Length of 8452722 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-May-2019 13:16:51 UTC] PHP Warning:  POST Content-Length of 9736596 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-May-2019 13:18:08 UTC] PHP Warning:  POST Content-Length of 9736596 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-May-2019 13:20:22 UTC] PHP Warning:  POST Content-Length of 10205297 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-May-2019 13:42:41 UTC] PHP Warning:  POST Content-Length of 9071562 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-May-2019 12:40:54 UTC] PHP Warning:  POST Content-Length of 12384902 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-May-2019 14:19:33 UTC] PHP Warning:  POST Content-Length of 11172246 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-May-2019 17:55:21 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=13588 in /home/agescritorio/public_html/admleilao/altera-acervo-foto1.php on line 45
+[30-May-2019 17:55:21 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=13784 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[30-May-2019 17:55:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[30-May-2019 17:55:21 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=13779 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[30-May-2019 17:55:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[30-May-2019 17:55:21 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=13621 in /home/agescritorio/public_html/admleilao/altera-acervo-foto1.php on line 45
+[30-May-2019 17:55:21 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=13875 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[30-May-2019 17:55:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[30-May-2019 18:52:55 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=20450 in /home/agescritorio/public_html/admleilao/altera-acervo-foto2.php on line 45
+[30-May-2019 18:57:55 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=20505 in /home/agescritorio/public_html/admleilao/altera-acervo-foto2.php on line 45
+[30-May-2019 19:36:59 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=26192 in /home/agescritorio/public_html/admleilao/index-home.php on line 55
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index-home.php on line 56
+[30-May-2019 19:36:59 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=26047 in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 6
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 7
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 13
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 66
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 155
+[30-May-2019 19:36:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/edita-acervo.php on line 172
+[18-Jul-2019 18:24:23 UTC] PHP Warning:  POST Content-Length of 8567248 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Jul-2019 19:02:16 UTC] PHP Warning:  POST Content-Length of 8567248 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=9651 in /home/agescritorio/public_html/admleilao/compradores.php on line 43
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/compradores.php on line 44
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=9654 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=9652 in /home/agescritorio/public_html/admleilao/compradores.php on line 43
+[25-Jul-2019 19:12:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/compradores.php on line 44
+[12-Aug-2019 19:05:40 UTC] PHP Warning:  POST Content-Length of 9337818 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Aug-2019 19:06:42 UTC] PHP Warning:  POST Content-Length of 9336779 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Aug-2019 14:31:24 UTC] PHP Warning:  POST Content-Length of 9578390 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Sep-2019 19:30:43 UTC] PHP Warning:  POST Content-Length of 13711516 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Sep-2019 19:31:56 UTC] PHP Warning:  POST Content-Length of 13711516 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6566 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6577 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[11-Sep-2019 20:18:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 123
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6209 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 123
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6930 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6592 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 123
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6968 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=7281 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=6957 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[11-Sep-2019 20:23:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[18-Sep-2019 20:25:01 UTC] PHP Warning:  POST Content-Length of 9625642 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Sep-2019 20:27:15 UTC] PHP Warning:  POST Content-Length of 9624604 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Sep-2019 20:42:32 UTC] PHP Warning:  POST Content-Length of 11000781 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Oct-2019 17:40:30 UTC] PHP Warning:  POST Content-Length of 11000781 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Oct-2019 17:41:34 UTC] PHP Warning:  POST Content-Length of 11000781 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Oct-2019 17:42:42 UTC] PHP Warning:  POST Content-Length of 11000781 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Oct-2019 20:44:06 UTC] PHP Warning:  POST Content-Length of 8533479 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Oct-2019 18:59:34 UTC] PHP Warning:  POST Content-Length of 10114812 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Oct-2019 18:59:53 UTC] PHP Warning:  POST Content-Length of 9294649 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Oct-2019 19:00:12 UTC] PHP Warning:  POST Content-Length of 9256359 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Oct-2019 19:00:33 UTC] PHP Warning:  POST Content-Length of 8579207 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Oct-2019 19:10:03 UTC] PHP Warning:  POST Content-Length of 9256945 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Oct-2019 15:02:17 UTC] PHP Warning:  POST Content-Length of 9616133 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Oct-2019 15:02:34 UTC] PHP Warning:  POST Content-Length of 10128322 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Oct-2019 18:43:02 UTC] PHP Warning:  POST Content-Length of 10128322 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Oct-2019 18:45:29 UTC] PHP Warning:  POST Content-Length of 9616133 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Oct-2019 18:51:14 UTC] PHP Warning:  POST Content-Length of 8738931 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Oct-2019 19:57:22 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=30462 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[15-Oct-2019 19:57:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[15-Oct-2019 19:57:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[15-Oct-2019 19:57:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[24-Oct-2019 14:44:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/agescritorio/public_html/admleilao/leilao-recibo-comitente.php on line 112
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:02:36 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 16:12:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[29-Oct-2019 17:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/agescritorio/public_html/admleilao/ficha-leiloeiro.php on line 59
+[31-Oct-2019 15:05:21 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/agescritorio/public_html/admleilao/consignacao.php on line 75
+[31-Oct-2019 20:52:15 UTC] PHP Warning:  POST Content-Length of 13893964 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2019 20:54:13 UTC] PHP Warning:  POST Content-Length of 13892906 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2019 20:56:21 UTC] PHP Warning:  POST Content-Length of 8514988 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2019 20:57:12 UTC] PHP Warning:  POST Content-Length of 8497355 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2019 20:59:45 UTC] PHP Warning:  POST Content-Length of 8467332 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2019 21:01:38 UTC] PHP Warning:  POST Content-Length of 15448880 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Nov-2019 20:34:37 UTC] PHP Warning:  POST Content-Length of 8952467 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Nov-2019 20:35:01 UTC] PHP Warning:  POST Content-Length of 8952461 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Nov-2019 20:35:20 UTC] PHP Warning:  POST Content-Length of 8952461 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Nov-2019 20:36:58 UTC] PHP Warning:  POST Content-Length of 8952460 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Nov-2019 14:08:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/agescritorio/public_html/admleilao/consignacao.php on line 75
+[12-Nov-2019 14:09:09 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/agescritorio/public_html/admleilao/consignacao.php on line 75
+[12-Nov-2019 14:10:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/agescritorio/public_html/admleilao/consignacao.php on line 75
+[12-Nov-2019 14:16:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/agescritorio/public_html/admleilao/consignacao.php on line 75
+[18-Nov-2019 18:00:27 UTC] PHP Warning:  POST Content-Length of 11069738 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 18:01:26 UTC] PHP Warning:  POST Content-Length of 11069738 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 18:07:59 UTC] PHP Warning:  POST Content-Length of 8444262 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 18:52:54 UTC] PHP Warning:  POST Content-Length of 16230903 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 18:53:04 UTC] PHP Warning:  POST Content-Length of 13386174 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 18:53:16 UTC] PHP Warning:  POST Content-Length of 13456238 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:23:31 UTC] PHP Warning:  POST Content-Length of 19428934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:24:07 UTC] PHP Warning:  POST Content-Length of 19428934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:24:41 UTC] PHP Warning:  POST Content-Length of 19428934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:25:04 UTC] PHP Warning:  POST Content-Length of 19428934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:25:44 UTC] PHP Warning:  POST Content-Length of 19428940 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:29:23 UTC] PHP Warning:  POST Content-Length of 18804104 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:36:06 UTC] PHP Warning:  POST Content-Length of 18804004 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:37:21 UTC] PHP Warning:  POST Content-Length of 18803999 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:46:06 UTC] PHP Warning:  POST Content-Length of 18803993 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:47:02 UTC] PHP Warning:  POST Content-Length of 18803993 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:48:08 UTC] PHP Warning:  POST Content-Length of 18803993 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 19:49:28 UTC] PHP Warning:  POST Content-Length of 19931797 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 20:02:31 UTC] PHP Warning:  POST Content-Length of 18802577 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 20:04:00 UTC] PHP Warning:  POST Content-Length of 18802577 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 20:04:50 UTC] PHP Warning:  POST Content-Length of 18802577 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 20:05:27 UTC] PHP Warning:  POST Content-Length of 18802577 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Nov-2019 20:27:39 UTC] PHP Warning:  POST Content-Length of 18803993 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Dec-2019 20:04:42 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=642 in /home/agescritorio/public_html/admleilao/index.php on line 5
+[09-Dec-2019 20:04:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/index.php on line 6
+[13-Dec-2019 16:06:54 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=3548 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[13-Dec-2019 16:06:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[13-Dec-2019 16:06:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[13-Dec-2019 16:06:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=15830 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=15865 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[17-Dec-2019 14:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[10-Mar-2020 20:00:39 UTC] PHP Warning:  POST Content-Length of 9287338 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Mar-2020 20:01:23 UTC] PHP Warning:  POST Content-Length of 9287338 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Mar-2020 20:02:14 UTC] PHP Warning:  POST Content-Length of 9287338 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17832 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17835 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17858 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17852 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17864 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 82
+[22-May-2020 18:37:01 UTC] PHP Warning:  Error while sending SET_OPTION packet. PID=17869 in /home/agescritorio/public_html/admleilao/acervo.php on line 44
+[22-May-2020 18:37:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 45
+[22-May-2020 18:37:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 55
+[22-May-2020 18:37:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/admleilao/acervo.php on line 123
+[05-Jun-2020 16:26:29 UTC] PHP Warning:  POST Content-Length of 80939507 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2020 16:26:39 UTC] PHP Warning:  POST Content-Length of 80939507 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2020 16:27:13 UTC] PHP Warning:  POST Content-Length of 80939507 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Jun-2020 16:10:04 UTC] PHP Warning:  POST Content-Length of 11726977 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Jun-2020 16:10:14 UTC] PHP Warning:  POST Content-Length of 11726977 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:14:26 UTC] PHP Warning:  POST Content-Length of 10047652 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:15:56 UTC] PHP Warning:  POST Content-Length of 10596725 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:18:31 UTC] PHP Warning:  POST Content-Length of 9030439 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:26:39 UTC] PHP Warning:  POST Content-Length of 12459177 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:26:45 UTC] PHP Warning:  POST Content-Length of 12459177 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:26:49 UTC] PHP Warning:  POST Content-Length of 12459177 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:29:14 UTC] PHP Warning:  POST Content-Length of 12188366 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:31:10 UTC] PHP Warning:  POST Content-Length of 10502284 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:47:40 UTC] PHP Warning:  POST Content-Length of 8817417 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jun-2020 19:48:57 UTC] PHP Warning:  POST Content-Length of 9654591 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jun-2020 16:57:33 UTC] PHP Warning:  POST Content-Length of 10047652 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jun-2020 17:13:15 UTC] PHP Warning:  POST Content-Length of 14263136 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Jun-2020 19:00:25 UTC] PHP Warning:  POST Content-Length of 10113890 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jun-2020 15:46:20 UTC] PHP Warning:  POST Content-Length of 8732064 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jun-2020 15:50:49 UTC] PHP Warning:  POST Content-Length of 9549404 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Jun-2020 17:24:28 UTC] PHP Warning:  POST Content-Length of 11659884 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Jun-2020 17:54:40 UTC] PHP Warning:  POST Content-Length of 14263136 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Jun-2020 19:58:56 UTC] PHP Warning:  POST Content-Length of 8810957 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jul-2020 15:34:44 UTC] PHP Warning:  POST Content-Length of 13818678 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jul-2020 18:33:25 UTC] PHP Warning:  POST Content-Length of 8640605 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jul-2020 18:56:26 UTC] PHP Warning:  POST Content-Length of 8439373 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jul-2020 18:57:36 UTC] PHP Warning:  POST Content-Length of 8439373 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jul-2020 13:34:04 UTC] PHP Warning:  POST Content-Length of 8616364 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jul-2020 13:35:17 UTC] PHP Warning:  POST Content-Length of 8827168 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jul-2020 13:36:35 UTC] PHP Warning:  POST Content-Length of 8962072 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jul-2020 13:37:55 UTC] PHP Warning:  POST Content-Length of 8827168 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jul-2020 13:38:38 UTC] PHP Warning:  POST Content-Length of 8906876 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:17:19 UTC] PHP Warning:  POST Content-Length of 12386801 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:17:43 UTC] PHP Warning:  POST Content-Length of 12386801 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:19:43 UTC] PHP Warning:  POST Content-Length of 8737825 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:20:11 UTC] PHP Warning:  POST Content-Length of 8737825 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:20:38 UTC] PHP Warning:  POST Content-Length of 8737825 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:22:15 UTC] PHP Warning:  POST Content-Length of 8743052 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:23:40 UTC] PHP Warning:  POST Content-Length of 8743056 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:24:16 UTC] PHP Warning:  POST Content-Length of 8743056 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 15:35:38 UTC] PHP Warning:  POST Content-Length of 9566275 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 20:43:52 UTC] PHP Warning:  POST Content-Length of 9342902 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jul-2020 20:47:30 UTC] PHP Warning:  POST Content-Length of 9342902 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Aug-2020 17:44:23 UTC] PHP Warning:  POST Content-Length of 10694197 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Aug-2020 15:50:01 UTC] PHP Warning:  POST Content-Length of 8779533 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Aug-2020 19:40:59 UTC] PHP Warning:  POST Content-Length of 8900954 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Aug-2020 13:48:40 UTC] PHP Warning:  POST Content-Length of 8396292 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Aug-2020 14:38:45 UTC] PHP Warning:  POST Content-Length of 8779533 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Aug-2020 14:38:46 UTC] PHP Warning:  POST Content-Length of 8779533 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
