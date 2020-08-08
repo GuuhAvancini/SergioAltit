@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteRule %{REQUEST_FILENAME} !-f
+RewriteRule %{REQUEST_FILENAME} !-d
+RewriteRule ^home/?$ /index.php [NC,L]
+
+RewriteRule ^home/?$ /index.php [NC,L]
+RewriteRule ^clinica-transplante-capilar/?$ /clinica.php [NC,L]
+RewriteRule ^localizacao/?$ /localizacao.php [NC,L]
+RewriteRule ^envia-formulario/?$ /envia-formulario.php [NC,L]
+RewriteRule ^entre-em-contato-clinica-transplante-capilar/?$ /contato.php [NC,L]
+RewriteRule ^calvicie/([a-z0-9-]+)?$ /calvicie.php?titulo=$1 [NC]
+RewriteRule ^transplante-capilar/([a-z0-9-]+)?$ /transplante-capilar.php?titulo=$1 [NC]
+RewriteRule ^site/?$ /index.php [NC,L]
+RewriteRule ^transplante-cilios/([a-z0-9-]+)?$ /transplante-cilios.php?titulo=$1 [NC]
+
+ErrorDocument 404 /404.php

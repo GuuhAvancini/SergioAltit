@@ -1,0 +1,94 @@
+[06-Feb-2017 14:04:26 UTC] PHP Warning:  include(form.php): failed to open stream: No such file or directory in /home/hairtransplantes/public_html/calvicie.php on line 33
+[06-Feb-2017 14:04:26 UTC] PHP Warning:  include(form.php): failed to open stream: No such file or directory in /home/hairtransplantes/public_html/calvicie.php on line 33
+[06-Feb-2017 14:04:26 UTC] PHP Warning:  include(): Failed opening 'form.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hairtransplantes/public_html/calvicie.php on line 33
+[06-Feb-2017 14:14:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hairtransplantes/public_html/calvicie.php on line 64
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jun-2018 16:21:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jun-2018 16:21:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[03-Mar-2019 06:58:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[11-May-2019 12:09:23 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[11-May-2019 12:09:23 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[11-May-2019 12:09:23 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[11-May-2019 12:09:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[04-Jan-2020 22:35:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[17-Jun-2020 05:59:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[23-Jun-2020 20:14:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[10-Jul-2020 22:06:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[15-Jul-2020 17:10:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  include(admleilao/seguranca.php): failed to open stream: No such file or directory in /home/agescritorio/public_html/v1/index.php on line 2
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  include(): Failed opening 'admleilao/seguranca.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/agescritorio/public_html/v1/index.php on line 2
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 4
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 4
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 5
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/agescritorio/public_html/v1/index.php on line 8
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/agescritorio/public_html/v1/index.php on line 8
+[16-Jul-2020 22:53:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/agescritorio/public_html/v1/index.php on line 9

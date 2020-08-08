@@ -1,0 +1,318 @@
+/* CSS Document */
+body,td,th {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #666666;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.428571429;
+	-webkit-font-smoothing: antialiased;
+	background-color:#000000;
+}
+#topoMenu{
+	height:150px;
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+	z-index:1000;
+	border-bottom:1px #CCCCCC solid;
+	background-color: #231f20;
+}
+#conteudo{
+	width: 1100px;
+  	margin: 0 auto;
+}
+#logo{
+	margin-top: 20px;	
+}
+.menu-cenac, .menu-cenac * {
+	list-style:		none;
+	float:			right;
+	text-decoration: none;
+  	font-size: 		16px;
+	margin-left:	5px;
+	margin-right:	5px;
+	margin-top:		20px;
+	right:			10px;
+	color:			#FFF;
+	padding:		5px;
+	
+	
+}
+a:link {
+	color: #FFFFFF;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #CCCCCC;
+}
+a:active {
+	color: #FFFFFF;
+}
+#imagensHome{
+	height:530px;
+	margin-top:-50px;
+	
+}
+#fotosHome{
+	width: 100%;
+    height: 530px;
+}
+#seta{
+	position:absolute;
+	bottom:20px;
+	left:50%;
+	margin-left:-25px;
+	
+}
+.buttlink{
+	border:#000000 1px solid;
+	text-decoration:none;
+	color:#666;
+	padding:15px;
+	
+}
+.buttlink:hover {
+	background-color:#000000;
+	
+}
+.buttlinkCirurgias{
+	border:#FFF 1px solid;
+	text-decoration:none;
+	color:#FFF;
+	padding:5px;
+	background-color:#000000;
+	margin:5px;
+	width:400px;
+	margin-top:8px;
+	
+}
+.buttlinkCirurgias a{
+	text-decoration:none;
+	color:#FFF;
+	
+}
+.buttlinkCirurgias a:hover{
+	text-decoration:none;
+	color:#000000;
+	
+}
+.buttlinkCirurgias:hover {
+	background-color:#FFF;
+	color:#000000;
+	
+}
+.buttlinkCirurgias:hover a{
+	color:#000000;
+	
+}
+.buttlinkMedicos{
+	border:#FFF 1px solid;
+	text-decoration:none;
+	color:#FFF;
+	padding:15px;
+	background-color:#000000;
+	margin:5px;
+	width:400px;
+	margin-top:10px;
+	
+}
+.buttlinkMedicos a{
+	text-decoration:none;
+	color:#FFF;
+	
+}
+.buttlinkMedicos a:hover{
+	text-decoration:none;
+	color:#000000;
+	
+}
+.buttlinkMedicos:hover {
+	background-color:#FFF;
+	color:#000000;
+	border:#000000 1px solid;
+	
+}
+.buttlinkMedicos:hover a{
+	color:#000000;
+	
+}
+
+#faleHome{
+	width:590px;
+	float:left;	
+}
+#faleHomeMapa{
+	float:right;
+	width:500px;
+	
+	
+}
+input[type=text] {
+    
+    padding: .313em 0;
+    letter-spacing: normal;
+    text-indent: .25em;
+	color: #666666;
+	font-size: 13px !important;
+    padding: 10px !important;
+	border: 1px solid #999 !important;
+	box-sizing: border-box;
+	border-radius: 0;
+    outline: 0;
+    background-color: #fff;
+    -webkit-appearance: none;
+	cursor: text;
+	 margin-top:20px;
+}
+textarea {
+    
+    padding: .313em 0;
+    letter-spacing: normal;
+    text-indent: .25em;
+	color: #666666;
+	font-size: 13px !important;
+    padding: 10px !important;
+	border: 1px solid #999 !important;
+	box-sizing: border-box;
+	border-radius: 0;
+    outline: 0;
+    background-color: #fff;
+    -webkit-appearance: none;
+	cursor: text;
+	 margin-top:20px;
+}
+input[type=submit] {
+    
+    padding: .313em 0;
+    letter-spacing: normal;
+    text-indent: .25em;
+	color: #000000;
+	font-size: 13px !important;
+    padding: 10px !important;
+	border: 1px solid #000000 !important;
+	box-sizing: border-box;
+	border-radius: 0;
+    outline: 0;
+    background-color: #fff;
+    -webkit-appearance: none;
+	cursor: pointer;
+	 margin-top:20px;
+}
+#rodapeHome{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	height:110px;
+	background-color:#231f20;
+	
+}
+#rodapePaginas{
+	width:100%;
+	height:110px;
+	background-color:#231f20;
+	margin-bottom:-20px !important;
+}
+
+#coluna1Rodape{
+	font-size:11px;
+	width:360px;
+	float:left;
+}
+#coluna2Rodape{
+	font-size:12px;
+	width:300px;
+	float:left;
+	margin-left:30px;
+}
+#coluna3Rodape{
+	font-size:11px;
+	width:290px;
+	float:left;
+	margin-left:30px;
+}
+#conteudosPaginas{
+	background-color:#FFF;
+	margin-top:-10px;
+}
+.conteudoMedicos{
+	background-repeat:no-repeat; 
+	background-image:url(images/fundo-home-medicos.jpg); 
+	background-position:right;
+}
+.conteudoCirurgias{
+	background-repeat:no-repeat; 
+	background-image:url(images/fundo-cirurgias.jpg); 
+	background-position:right;
+}
+#cirurgiasColuna1{
+	float:left;
+	width:450px;
+}
+#cirurgiasColuna2{
+	margin-left:450px;
+	padding-top:1px;
+}
+
+.buttlinkCirurgiasPagina{
+	border:#FFF 1px solid;
+	text-decoration:none;
+	color:#FFF;
+	padding:15px;
+	background-color:#000000;
+	margin:5px;
+	width:390px;
+	margin-top:10px;
+	
+}
+.buttlinkCirurgiasPagina a{
+	text-decoration:none;
+	color:#FFF;
+	
+}
+.buttlinkCirurgiasPagina a:hover{
+	text-decoration:none;
+	color:#000000;
+	
+}
+.buttlinkCirurgiasPagina:hover {
+	background-color:#FFF;
+	color:#000000;
+	border:#000000 1px solid;
+	
+}
+.buttlinkCirurgiasPagina:hover a{
+	color:#000000;
+	
+}
+#buttNomeMedicos{
+	border:#FFF 1px solid;
+	text-decoration:none;
+	color:#FFF;
+	padding:15px;
+	background-color:#000000;
+	margin:5px;
+	width:210px;
+	margin-top:10px;
+	height:20px;
+	font-size:12px;
+	padding-top:40px;
+	
+}
+#nomeFotoMedico{
+	width:350px;
+	
+}
+#curriculumMedico{
+	width:730px;
+	margin-left:380px;
+	margin-top:-340px;
+}
