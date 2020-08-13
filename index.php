@@ -1,17 +1,18 @@
 <?php 
 include("admleilao/seguranca.php"); // Inclui o arquivo com o sistema de segurança
+
+$mysqli = $_SG['link'];
+
 $querySt = "Select * from website where codigoCliente = '1' and idPagina = '1'";
-$resultadoSt = mysql_query($querySt);
-$linhaSt = mysql_fetch_array($resultadoSt);
+$resultadoSt = $mysqli->query($querySt);
+$linhaSt = $resultadoSt->fetch_array();
 
 $queryAltit = "Select * from website where codigoCliente = '1' and idPagina = '2'";
-$resultadoAltit = mysql_query($queryAltit);
-$linhaAltit = mysql_fetch_array($resultadoAltit);
+$resultadoAltit = $mysqli->query($queryAltit);
+$linhaAltit = $resultadoAltit->fetch_array();
 
-if($_GET['op'] == "ok"){$erro = "alert('Dados enviado com sucesso, aguarde nosso contato...')";}
 
 $mobile = FALSE;
-
 $user_agents = array("iPhone","iPad","Android","webOS","BlackBerry","iPod","Symbian","IsGeneric");
 
 foreach($user_agents as $user_agent){
@@ -120,7 +121,7 @@ body {
     <? 
 	if($linhaSt['link'] == "sim"){
 		
-		$queryL = "Select * from leiloes where website = 'sim' and convite <> '' and estatus = 'Pregão' and siteAg = '1' and idLeilaoN = '".$linhaSt['idLeilao']."' order by data desc";
+		$queryL = "Select * from leiloes where website = 'sim' and convite != '' and estatus = 'Pregão' and siteAg = '1' and idLeilaoN = '".$linhaSt['idLeilao']."' order by data desc";
       	$resultadoL = mysql_query($queryL);
 		$linhaL = mysql_fetch_array($resultadoL);
 		

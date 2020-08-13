@@ -1,18 +1,33 @@
 <?php 
 include("admleilao/seguranca.php"); // Inclui o arquivo com o sistema de segurança
+
+$mysqli = $_SG['link'];
+
 $querySt = "Select * from website where codigoCliente = '1' and idPagina = '1'";
-$resultadoSt = mysql_query($querySt);
-$linhaSt = mysql_fetch_array($resultadoSt);
+$resultadoSt = $mysqli->query($querySt);
+$linhaSt = $resultadoSt->fetch_array();
 
-$queryAltit = "Select * from website where codigoCliente = '1' and idPagina = '4'";
-$resultadoAltit = mysql_query($queryAltit);
-$linhaAltit = mysql_fetch_array($resultadoAltit);
-
-if($_GET['op'] == "ok"){$erro = "alert('Dados enviado com sucesso, aguarde nosso contato...')";}
+$queryAltit = "Select * from website where codigoCliente = '1' and idPagina = '2'";
+$resultadoAltit = $mysqli->query($queryAltit);
+$linhaAltit = $resultadoAltit->fetch_array();
 
 
+$mobile = FALSE;
+$user_agents = array("iPhone","iPad","Android","webOS","BlackBerry","iPod","Symbian","IsGeneric");
 
+foreach($user_agents as $user_agent){
 
+    if (strpos($_SERVER['HTTP_USER_AGENT'], $user_agent) !== FALSE) {
+        $mobile = TRUE;
+
+        $modelo = $user_agent;
+
+        break;
+    }
+}
+if ($mobile){
+	header("Location: /mobile/index.php");
+  }
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
