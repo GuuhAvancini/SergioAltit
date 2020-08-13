@@ -1,5 +1,5 @@
 <?php 
-include("admleilao/seguranca.php"); // Inclui o arquivo com o sistema de segurança
+include("admleilao/seguranca.php"); // Inclui  o arquivo com o sistema de segurança
 $querySt = "Select * from website where codigoCliente = '1' and idPagina = '1'";
 $resultadoSt = mysql_query($querySt);
 $linhaSt = mysql_fetch_array($resultadoSt);
